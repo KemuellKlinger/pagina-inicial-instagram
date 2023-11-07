@@ -8,4 +8,4 @@
 ## 🚀 Let's code! 🚀
 
 ## veja o resultado
-* [Pagina inicia Instagram](https://kemuell411.github.io/pagina-inicial-instagram/)
+* [Pagina inicial Instagram](https://kemuell411.github.io/pagina-inicial-instagram/)
